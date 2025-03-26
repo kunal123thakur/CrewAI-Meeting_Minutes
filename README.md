@@ -1,5 +1,9 @@
 
 
+
+https://github.com/user-attachments/assets/e6849c3d-935a-4c8d-97cb-d37bad840971
+
+
 <video controls src="meeting_minutes_github_video.mp4" title="Title"></video>
 
 #!/usr/bin/env python
